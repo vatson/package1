@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "1ce3375881d3f6083826eca547941283",
+    "packages": [
+        {
+            "name": "opis/events",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/opis/events.git",
+                "reference": "2d14d0da1cfca6e3aa5c266cb5be2deb252f3e7a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/opis/events/zipball/2d14d0da1cfca6e3aa5c266cb5be2deb252f3e7a",
+                "reference": "2d14d0da1cfca6e3aa5c266cb5be2deb252f3e7a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Opis\\Events": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "time": "2013-11-29 15:18:49"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "opis/events": 20
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
