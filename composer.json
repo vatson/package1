@@ -7,6 +7,7 @@
         }
     ],
     "require": {
-        "opis/events": "dev-master"
+        "opis/events": "dev-master",
+        "vatson/package2": "1.0.1"
     }
 }
